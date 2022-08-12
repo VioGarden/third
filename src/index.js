@@ -1,11 +1,12 @@
 import React from "react"
 import ReactDOM from "react-dom"
 import App from "./App"
-import "./style.css"
+import MainPage from "./lightdark"
 
 const page = (
     <div>
         <App />
+        <MainPage />
     </div>
 )
 
